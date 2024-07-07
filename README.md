@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![rr](https://github.com/palaktomar/E_commerce/assets/114277817/f8fdb6cd-b7ba-4fdf-93f5-c80c56bee9bc)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
